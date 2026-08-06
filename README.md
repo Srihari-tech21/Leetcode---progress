@@ -63,4 +63,12 @@ my Progress in the leetcode platform
 |  |
 | ------- |
 | [3828-final-element-after-subarray-deletions](https://github.com/Srihari-tech21/Leetcode---progress/tree/master/3828-final-element-after-subarray-deletions) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3827-count-monobit-integers](https://github.com/Srihari-tech21/Leetcode---progress/tree/master/3827-count-monobit-integers) |
+## Enumeration
+|  |
+| ------- |
+| [3827-count-monobit-integers](https://github.com/Srihari-tech21/Leetcode---progress/tree/master/3827-count-monobit-integers) |
 <!---LeetCode Topics End-->
