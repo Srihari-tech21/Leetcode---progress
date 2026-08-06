@@ -15,6 +15,7 @@ my Progress in the leetcode platform
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Srihari-tech21/Leetcode---progress/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/Srihari-tech21/Leetcode---progress/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Srihari-tech21/Leetcode---progress/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Srihari-tech21/Leetcode---progress/tree/master/0189-rotate-array) |
@@ -39,6 +40,7 @@ my Progress in the leetcode platform
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Srihari-tech21/Leetcode---progress/tree/master/0001-two-sum) |
 | [0202-happy-number](https://github.com/Srihari-tech21/Leetcode---progress/tree/master/0202-happy-number) |
 ## Floyd's Cycle Finding Algorithm
 |  |
