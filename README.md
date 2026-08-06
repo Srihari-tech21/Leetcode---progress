@@ -10,6 +10,7 @@ my Progress in the leetcode platform
 | [0009-palindrome-number](https://github.com/Srihari-tech21/Leetcode---progress/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/Srihari-tech21/Leetcode---progress/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Srihari-tech21/Leetcode---progress/tree/master/0202-happy-number) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Srihari-tech21/Leetcode---progress/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Array
 |  |
 | ------- |
@@ -18,6 +19,7 @@ my Progress in the leetcode platform
 | [0189-rotate-array](https://github.com/Srihari-tech21/Leetcode---progress/tree/master/0189-rotate-array) |
 | [0485-max-consecutive-ones](https://github.com/Srihari-tech21/Leetcode---progress/tree/master/0485-max-consecutive-ones) |
 | [0977-squares-of-a-sorted-array](https://github.com/Srihari-tech21/Leetcode---progress/tree/master/0977-squares-of-a-sorted-array) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Srihari-tech21/Leetcode---progress/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Two Pointers
 |  |
 | ------- |
