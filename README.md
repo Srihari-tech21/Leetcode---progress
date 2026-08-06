@@ -21,6 +21,7 @@ my Progress in the leetcode platform
 | [0485-max-consecutive-ones](https://github.com/Srihari-tech21/Leetcode---progress/tree/master/0485-max-consecutive-ones) |
 | [0977-squares-of-a-sorted-array](https://github.com/Srihari-tech21/Leetcode---progress/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Srihari-tech21/Leetcode---progress/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1539-kth-missing-positive-number](https://github.com/Srihari-tech21/Leetcode---progress/tree/master/1539-kth-missing-positive-number) |
 | [3828-final-element-after-subarray-deletions](https://github.com/Srihari-tech21/Leetcode---progress/tree/master/3828-final-element-after-subarray-deletions) |
 ## Two Pointers
 |  |
@@ -51,6 +52,7 @@ my Progress in the leetcode platform
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/Srihari-tech21/Leetcode---progress/tree/master/0700-search-in-a-binary-search-tree) |
+| [1539-kth-missing-positive-number](https://github.com/Srihari-tech21/Leetcode---progress/tree/master/1539-kth-missing-positive-number) |
 ## Binary Tree
 |  |
 | ------- |
