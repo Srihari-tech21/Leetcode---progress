@@ -11,11 +11,13 @@ my Progress in the leetcode platform
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Srihari-tech21/Leetcode---progress/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Srihari-tech21/Leetcode---progress/tree/master/0088-merge-sorted-array) |
 | [0485-max-consecutive-ones](https://github.com/Srihari-tech21/Leetcode---progress/tree/master/0485-max-consecutive-ones) |
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Srihari-tech21/Leetcode---progress/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Srihari-tech21/Leetcode---progress/tree/master/0088-merge-sorted-array) |
 ## Sorting
 |  |
