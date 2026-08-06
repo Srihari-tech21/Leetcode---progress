@@ -21,6 +21,7 @@ my Progress in the leetcode platform
 | [0088-merge-sorted-array](https://github.com/Srihari-tech21/Leetcode---progress/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Srihari-tech21/Leetcode---progress/tree/master/0189-rotate-array) |
 | [0485-max-consecutive-ones](https://github.com/Srihari-tech21/Leetcode---progress/tree/master/0485-max-consecutive-ones) |
+| [0704-binary-search](https://github.com/Srihari-tech21/Leetcode---progress/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/Srihari-tech21/Leetcode---progress/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Srihari-tech21/Leetcode---progress/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1539-kth-missing-positive-number](https://github.com/Srihari-tech21/Leetcode---progress/tree/master/1539-kth-missing-positive-number) |
@@ -56,6 +57,7 @@ my Progress in the leetcode platform
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Srihari-tech21/Leetcode---progress/tree/master/0033-search-in-rotated-sorted-array) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Srihari-tech21/Leetcode---progress/tree/master/0700-search-in-a-binary-search-tree) |
+| [0704-binary-search](https://github.com/Srihari-tech21/Leetcode---progress/tree/master/0704-binary-search) |
 | [1539-kth-missing-positive-number](https://github.com/Srihari-tech21/Leetcode---progress/tree/master/1539-kth-missing-positive-number) |
 ## Binary Tree
 |  |
