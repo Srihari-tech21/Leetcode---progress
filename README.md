@@ -17,6 +17,7 @@ my Progress in the leetcode platform
 | [0088-merge-sorted-array](https://github.com/Srihari-tech21/Leetcode---progress/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Srihari-tech21/Leetcode---progress/tree/master/0189-rotate-array) |
 | [0485-max-consecutive-ones](https://github.com/Srihari-tech21/Leetcode---progress/tree/master/0485-max-consecutive-ones) |
+| [0977-squares-of-a-sorted-array](https://github.com/Srihari-tech21/Leetcode---progress/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -24,10 +25,12 @@ my Progress in the leetcode platform
 | [0088-merge-sorted-array](https://github.com/Srihari-tech21/Leetcode---progress/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Srihari-tech21/Leetcode---progress/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Srihari-tech21/Leetcode---progress/tree/master/0202-happy-number) |
+| [0977-squares-of-a-sorted-array](https://github.com/Srihari-tech21/Leetcode---progress/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Srihari-tech21/Leetcode---progress/tree/master/0088-merge-sorted-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/Srihari-tech21/Leetcode---progress/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
