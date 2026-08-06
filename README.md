@@ -36,4 +36,16 @@ my Progress in the leetcode platform
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Srihari-tech21/Leetcode---progress/tree/master/0202-happy-number) |
+## Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/Srihari-tech21/Leetcode---progress/tree/master/0700-search-in-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/Srihari-tech21/Leetcode---progress/tree/master/0700-search-in-a-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/Srihari-tech21/Leetcode---progress/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
