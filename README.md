@@ -17,6 +17,7 @@ my Progress in the leetcode platform
 | ------- |
 | [0001-two-sum](https://github.com/Srihari-tech21/Leetcode---progress/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/Srihari-tech21/Leetcode---progress/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Srihari-tech21/Leetcode---progress/tree/master/0033-search-in-rotated-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/Srihari-tech21/Leetcode---progress/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Srihari-tech21/Leetcode---progress/tree/master/0189-rotate-array) |
 | [0485-max-consecutive-ones](https://github.com/Srihari-tech21/Leetcode---progress/tree/master/0485-max-consecutive-ones) |
@@ -53,6 +54,7 @@ my Progress in the leetcode platform
 ## Binary Search Tree
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Srihari-tech21/Leetcode---progress/tree/master/0033-search-in-rotated-sorted-array) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Srihari-tech21/Leetcode---progress/tree/master/0700-search-in-a-binary-search-tree) |
 | [1539-kth-missing-positive-number](https://github.com/Srihari-tech21/Leetcode---progress/tree/master/1539-kth-missing-positive-number) |
 ## Binary Tree
